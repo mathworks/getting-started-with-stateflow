@@ -15,4 +15,4 @@ All models were created and saved in R2020b. If you are using an earlier release
 
 (4) Clear the "Do not load models created with a newer version of Simulink" option.
 
-[![View getting-started-with-stateflow on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/GET_THIS_LINK_EVENTUALLY)
+[![View getting-started-with-stateflow on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/85178-getting-started-with-stateflow-example-files)
